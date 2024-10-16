@@ -1,0 +1,41 @@
+.login-form {
+    width: 100%;
+    max-width: 400px; /* Limiting the form width */
+    margin: 50px auto; /* Centering the form on the page */
+    padding: 20px;
+    background-color: white; /* White background for the form */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow around the form */
+}
+
+.login-form h3 {
+    text-align: center; /* Center the heading */
+}
+
+.login-form .form-group {
+    margin-bottom: 20px; /* Adding space between fields */
+}
+
+.login-form input {
+    width: 100%; /* Make inputs take full width of the form */
+}
+
+.login-form button {
+    width: 100%; /* Make button take full width */
+}
+    .container {
+        width: 768px;
+        max-width: 100%;
+        min-height: 480px;
+        background-color: #fff;
+        border-radius: 30px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+        position: relative;
+        overflow: hidden;
+    }
+
+    body {
+        background: linear-gradient(to right, #28a745, #1e7e34);
+    }
+
+    
